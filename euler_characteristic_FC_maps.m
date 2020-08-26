@@ -1,5 +1,12 @@
-% Code shared by Veronica Maki-Marttunen with publication Uncovering the LC
+% AUTHOR        Veronica Maki-Marttunen
+% CONTACT       makimarttunen.veronica@gmail.com
+% DATE          August 2020
+% MATLAB        R2019b
+% Code shared with publication Uncovering the locus coeruleus
 % 2020
+
+% Example code to produce Euler Characteristic values between two functional connectivity maps
+% Produce plots of EC and cluster count (Figure 12)
 % Based on https://osf.io/xzbng/
 % ds109_euler_chars.m 
 
